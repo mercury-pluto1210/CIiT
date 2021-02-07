@@ -1,4 +1,4 @@
-# hackathon-project
+# Hackathon-Project
 
 Firebase Hostingでデプロイしました \
 https://taiheiyou-test.firebaseapp.com/ \
